@@ -1,10 +1,8 @@
 # AdaFilter-SGD
 ### Dependencies
-python 3.10
+python 3.12.8
 pytorch 2.0.1
 torchvision 0.15.2
-CUDA 11.8
-Ubuntu20.04
 jupyter notebook
 ### Visualization of pre-trained curves
 Please use the jupyter notebook "visualization.ipynb" to visualize the training and test curves of different optimizers. We provide logs for pre-trained models (7 optimizers x 3 models = 21 pre-trained curves) in the folder "curve".
